@@ -3,3 +3,4 @@
 3 office
 4 home
 5 office
+6 home
